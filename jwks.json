@@ -3,6 +3,8 @@
       {
          "kty":"RSA",
          "kid":"ossinternal",
+         "use":"sig",
+         "alg":"RS256",
          "n":"jm_PRcLqZtI0ndJp4Ued2HljgkYdFTCwUa46zYx4YubBDKJdGOqWs97RdyCIYTajddbYLkFUbgcwAXp8QBm7zM2w0e9tp2_eJvMBlbrF-hDwBsFScM2QsWwzi2ksK8vKwoeA4b8h8nLsR1OAX78dCRogfiZNjzcrWci0XJ_5Ud45hfLw0xD2sKu4uHp1mtKtsVxUTn4Zie6yHDjnkvQH9mjgVkSWMwai93BBek3ivFIoOEMPfvB7JlzowflASYPTrOfHH3_QHOkVRYiA81hoWW3TWLjXYZfWgzH07sSq0yTRggfhCXyF7nbZUcu-FUm9TEiODHk-aunPYRJxCvrg8Q",
          "e":"AQAB"
       }
